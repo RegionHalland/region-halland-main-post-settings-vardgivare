@@ -1,2 +1,2 @@
 # region-halland-main-post-settings-vardgivare
-Inställningar för poster på vardgivarwebben
+Inställningar för post-sidan för vardgivarwebben
