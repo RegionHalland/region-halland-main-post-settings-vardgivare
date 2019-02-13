@@ -6,7 +6,7 @@
 	/*
 	Plugin Name: Region Halland Main Post Settings Vardgivare
 	Description: Inställningar för post-sidan för vardgivarwebben
-	Version: 1.0.0
+	Version: 1.0.1
 	Author: Roland Hydén
 	License: Free to use
 	Text Domain: regionhalland
